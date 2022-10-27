@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hw4-youkenliang/static/css/main.b6832693.css",
+    "main.js": "/hw4-youkenliang/static/js/main.c94b787c.js",
+    "static/js/787.263e14e4.chunk.js": "/hw4-youkenliang/static/js/787.263e14e4.chunk.js",
+    "index.html": "/hw4-youkenliang/index.html",
+    "main.b6832693.css.map": "/hw4-youkenliang/static/css/main.b6832693.css.map",
+    "main.c94b787c.js.map": "/hw4-youkenliang/static/js/main.c94b787c.js.map",
+    "787.263e14e4.chunk.js.map": "/hw4-youkenliang/static/js/787.263e14e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6832693.css",
+    "static/js/main.c94b787c.js"
+  ]
+}
